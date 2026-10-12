@@ -1,0 +1,562 @@
+[
+  {
+    "question": "Complete the sentence: She has great ___ to learn.",
+    "options": ["October", "December", "suggestion", "desire"],
+    "correct": "desire",
+    "type": "fill_blank",
+    "level": "A1"
+  },
+  {
+    "question": "What is the opposite of 'big'?",
+    "options": ["small", "large", "huge", "giant"],
+    "correct": "small",
+    "type": "vocabulary",
+    "level": "A1"
+  },
+  {
+    "question": "I ___ to school every day.",
+    "options": ["go", "goes", "going", "went"],
+    "correct": "go",
+    "type": "grammar",
+    "level": "A1"
+  },
+  {
+    "question": "How many days are there in a week?",
+    "options": ["five", "six", "seven", "eight"],
+    "correct": "seven",
+    "type": "basic_knowledge",
+    "level": "A1"
+  },
+  {
+    "question": "The color of grass is ___.",
+    "options": ["blue", "green", "red", "yellow"],
+    "correct": "green",
+    "type": "vocabulary",
+    "level": "A1"
+  },
+  {
+    "question": "She ___ her homework yesterday.",
+    "options": ["do", "does", "did", "doing"],
+    "correct": "did",
+    "type": "grammar",
+    "level": "A1"
+  },
+  {
+    "question": "What do you use to write?",
+    "options": ["pen", "cup", "shoe", "hat"],
+    "correct": "pen",
+    "type": "vocabulary",
+    "level": "A1"
+  },
+  {
+    "question": "I am ___ years old.",
+    "options": ["twenty", "twenties", "twentieth", "twenty-th"],
+    "correct": "twenty",
+    "type": "numbers",
+    "level": "A1"
+  },
+  {
+    "question": "The sun ___ in the east.",
+    "options": ["rise", "rises", "rising", "rose"],
+    "correct": "rises",
+    "type": "grammar",
+    "level": "A1"
+  },
+  {
+    "question": "What do you wear on your feet?",
+    "options": ["hat", "gloves", "shoes", "shirt"],
+    "correct": "shoes",
+    "type": "vocabulary",
+    "level": "A1"
+  },
+  {
+    "question": "I ___ to the cinema last night.",
+    "options": ["go", "goes", "went", "going"],
+    "correct": "went",
+    "type": "grammar",
+    "level": "A2"
+  },
+  {
+    "question": "She is ___ than her sister.",
+    "options": ["tall", "taller", "tallest", "more tall"],
+    "correct": "taller",
+    "type": "grammar",
+    "level": "A2"
+  },
+  {
+    "question": "I have ___ finished my work.",
+    "options": ["yet", "already", "still", "since"],
+    "correct": "already",
+    "type": "grammar",
+    "level": "A2"
+  },
+  {
+    "question": "Can you ___ me the way to the station?",
+    "options": ["say", "tell", "speak", "talk"],
+    "correct": "tell",
+    "type": "vocabulary",
+    "level": "A2"
+  },
+  {
+    "question": "I'm looking forward ___ you again.",
+    "options": ["to see", "seeing", "to seeing", "see"],
+    "correct": "to seeing",
+    "type": "grammar",
+    "level": "A2"
+  },
+  {
+    "question": "How ___ sugar do you need?",
+    "options": ["many", "much", "few", "little"],
+    "correct": "much",
+    "type": "grammar",
+    "level": "A2"
+  },
+  {
+    "question": "I ___ in London for five years.",
+    "options": ["live", "am living", "have lived", "lived"],
+    "correct": "have lived",
+    "type": "grammar",
+    "level": "A2"
+  },
+  {
+    "question": "If it rains, I ___ stay at home.",
+    "options": ["will", "would", "can", "must"],
+    "correct": "will",
+    "type": "grammar",
+    "level": "A2"
+  },
+  {
+    "question": "She asked me ___ I was feeling better.",
+    "options": ["that", "if", "what", "which"],
+    "correct": "if",
+    "type": "grammar",
+    "level": "A2"
+  },
+  {
+    "question": "The weather is getting ___.",
+    "options": ["worse", "worst", "bad", "badly"],
+    "correct": "worse",
+    "type": "grammar",
+    "level": "A2"
+  },
+  {
+    "question": "I wish I ___ speak French fluently.",
+    "options": ["can", "could", "will", "would"],
+    "correct": "could",
+    "type": "grammar",
+    "level": "B1"
+  },
+  {
+    "question": "The meeting has been ___ until next week.",
+    "options": ["put off", "put on", "put up", "put down"],
+    "correct": "put off",
+    "type": "phrasal_verbs",
+    "level": "B1"
+  },
+  {
+    "question": "Despite ___ hard, he failed the exam.",
+    "options": ["study", "studying", "studied", "to study"],
+    "correct": "studying",
+    "type": "grammar",
+    "level": "B1"
+  },
+  {
+    "question": "The company is ___ of expanding overseas.",
+    "options": ["thinking", "considering", "planning", "intending"],
+    "correct": "thinking",
+    "type": "vocabulary",
+    "level": "B1"
+  },
+  {
+    "question": "I'd rather you ___ smoke in here.",
+    "options": ["don't", "didn't", "won't", "wouldn't"],
+    "correct": "didn't",
+    "type": "grammar",
+    "level": "B1"
+  },
+  {
+    "question": "The project should ___ by the end of the month.",
+    "options": ["complete", "be completed", "have completed", "completing"],
+    "correct": "be completed",
+    "type": "grammar",
+    "level": "B1"
+  },
+  {
+    "question": "She's not used ___ up so early.",
+    "options": ["to get", "to getting", "getting", "get"],
+    "correct": "to getting",
+    "type": "grammar",
+    "level": "B1"
+  },
+  {
+    "question": "The more you practice, ___ you'll become.",
+    "options": ["better", "the better", "best", "the best"],
+    "correct": "the better",
+    "type": "grammar",
+    "level": "B1"
+  },
+  {
+    "question": "I can't stand people ___ are always complaining.",
+    "options": ["who", "which", "that", "whom"],
+    "correct": "who",
+    "type": "grammar",
+    "level": "B1"
+  },
+  {
+    "question": "By the time we arrive, the concert ___ started.",
+    "options": ["will have", "will be", "would have", "would be"],
+    "correct": "will have",
+    "type": "grammar",
+    "level": "B1"
+  },
+  {
+    "question": "Had I known about the traffic, I ___ earlier.",
+    "options": ["would leave", "would have left", "will leave", "left"],
+    "correct": "would have left",
+    "type": "grammar",
+    "level": "B2"
+  },
+  {
+    "question": "The government is ___ criticism over its new policy.",
+    "options": ["coming under", "getting over", "looking into", "putting up with"],
+    "correct": "coming under",
+    "type": "phrasal_verbs",
+    "level": "B2"
+  },
+  {
+    "question": "Not only ___ late, but he also forgot his presentation.",
+    "options": ["he was", "was he", "he had been", "had he been"],
+    "correct": "was he",
+    "type": "grammar",
+    "level": "B2"
+  },
+  {
+    "question": "The committee recommended that the proposal ___.",
+    "options": ["is rejected", "be rejected", "to be rejected", "being rejected"],
+    "correct": "be rejected",
+    "type": "grammar",
+    "level": "B2"
+  },
+  {
+    "question": "She's ___ to be the most talented musician of her generation.",
+    "options": ["regarded", "considered", "thought", "believed"],
+    "correct": "considered",
+    "type": "vocabulary",
+    "level": "B2"
+  },
+  {
+    "question": "The research ___ that regular exercise improves memory.",
+    "options": ["demonstrates", "illustrates", "indicates", "implies"],
+    "correct": "indicates",
+    "type": "vocabulary",
+    "level": "B2"
+  },
+  {
+    "question": "I object to ___ treated like a child.",
+    "options": ["be", "being", "been", "have been"],
+    "correct": "being",
+    "type": "grammar",
+    "level": "B2"
+  },
+  {
+    "question": "The company's profits have ___ dramatically this year.",
+    "options": ["soared", "escalated", "intensified", "amplified"],
+    "correct": "soared",
+    "type": "vocabulary",
+    "level": "B2"
+  },
+  {
+    "question": "It's high time we ___ serious about climate change.",
+    "options": ["get", "got", "getting", "to get"],
+    "correct": "got",
+    "type": "grammar",
+    "level": "B2"
+  },
+  {
+    "question": "The legislation is designed to ___ discrimination in the workplace.",
+    "options": ["combat", "contest", "counter", "contradict"],
+    "correct": "combat",
+    "type": "vocabulary",
+    "level": "B2"
+  },
+  {
+    "question": "The company's new strategy aims to ___ market volatility.",
+    "options": ["mitigate", "alleviate", "reduce", "minimize"],
+    "correct": "mitigate",
+    "type": "vocabulary",
+    "level": "B2"
+  },
+  {
+    "question": "The therapy sessions helped her ___ her childhood trauma.",
+    "options": ["process", "handle", "deal with", "cope with"],
+    "correct": "process",
+    "type": "vocabulary",
+    "level": "B2"
+  },
+  {
+    "question": "The scientist's hypothesis was ___ by subsequent experiments.",
+    "options": ["corroborated", "substantiated", "validated", "authenticated"],
+    "correct": "corroborated",
+    "type": "vocabulary",
+    "level": "C1"
+  },
+  {
+    "question": "The policy has been ___ as ineffective by critics.",
+    "options": ["denounced", "deprecated", "disparaged", "derided"],
+    "correct": "denounced",
+    "type": "vocabulary",
+    "level": "C1"
+  },
+  {
+    "question": "The committee's decision was reached through a ___ process.",
+    "options": ["meticulous", "scrupulous", "fastidious", "punctilious"],
+    "correct": "meticulous",
+    "type": "vocabulary",
+    "level": "C1"
+  },
+  {
+    "question": "Her argument was so ___ that it left no room for doubt.",
+    "options": ["compelling", "cogent", "persuasive", "convincing"],
+    "correct": "cogent",
+    "type": "vocabulary",
+    "level": "C1"
+  },
+  {
+    "question": "The company's expansion plans were ___ due to market conditions.",
+    "options": ["curtailed", "truncated", "abbreviated", "abridged"],
+    "correct": "curtailed",
+    "type": "vocabulary",
+    "level": "C1"
+  },
+  {
+    "question": "The researcher's findings ___ conventional wisdom on the subject.",
+    "options": ["contravene", "contradict", "countermand", "controvert"],
+    "correct": "contravene",
+    "type": "vocabulary",
+    "level": "C1"
+  },
+  {
+    "question": "The diplomatic negotiations reached an ___ after months of talks.",
+    "options": ["impasse", "deadlock", "stalemate", "standstill"],
+    "correct": "impasse",
+    "type": "vocabulary",
+    "level": "C1"
+  },
+  {
+    "question": "The new technology represents a ___ shift in manufacturing processes.",
+    "options": ["paradigmatic", "fundamental", "revolutionary", "transformative"],
+    "correct": "paradigmatic",
+    "type": "vocabulary",
+    "level": "C1"
+  },
+  {
+    "question": "The author's prose style is characterized by its ___ complexity.",
+    "options": ["labyrinthine", "convoluted", "intricate", "elaborate"],
+    "correct": "labyrinthine",
+    "type": "vocabulary",
+    "level": "C1"
+  },
+  {
+    "question": "The economic downturn had ___ effects across multiple sectors.",
+    "options": ["ramifying", "cascading", "proliferating", "permeating"],
+    "correct": "ramifying",
+    "type": "vocabulary",
+    "level": "C1"
+  },
+  {
+    "question": "The museum's collection includes several ___ artifacts from ancient civilizations.",
+    "options": ["priceless", "invaluable", "precious", "valuable"],
+    "correct": "invaluable",
+    "type": "vocabulary",
+    "level": "C1"
+  },
+  {
+    "question": "The team's performance was ___ despite facing numerous challenges.",
+    "options": ["commendable", "praiseworthy", "admirable", "laudable"],
+    "correct": "commendable",
+    "type": "vocabulary",
+    "level": "C1"
+  },
+  {
+    "question": "The research methodology was ___ to ensure accurate results.",
+    "options": ["rigorous", "strict", "thorough", "comprehensive"],
+    "correct": "rigorous",
+    "type": "vocabulary",
+    "level": "C1"
+  },
+  {
+    "question": "The new policy framework aims to ___ existing regulations.",
+    "options": ["streamline", "simplify", "organize", "structure"],
+    "correct": "streamline",
+    "type": "vocabulary",
+    "level": "C1"
+  },
+  {
+    "question": "The negotiations were ___ by mutual mistrust between the parties.",
+    "options": ["hampered", "hindered", "impeded", "obstructed"],
+    "correct": "hampered",
+    "type": "vocabulary",
+    "level": "C1"
+  },
+  {
+    "question": "The economic indicators suggest a ___ recovery in the coming months.",
+    "options": ["tentative", "cautious", "hesitant", "provisional"],
+    "correct": "tentative",
+    "type": "vocabulary",
+    "level": "C1"
+  },
+  {
+    "question": "The philosopher's treatise presents a ___ analysis of human consciousness.",
+    "options": ["perspicacious", "sagacious", "astute", "discerning"],
+    "correct": "perspicacious",
+    "type": "vocabulary",
+    "level": "C2"
+  },
+  {
+    "question": "The politician's speech was criticized for its ___ rhetoric.",
+    "options": ["grandiloquent", "bombastic", "pompous", "pretentious"],
+    "correct": "grandiloquent",
+    "type": "vocabulary",
+    "level": "C2"
+  },
+  {
+    "question": "The artist's work demonstrates a ___ understanding of color theory.",
+    "options": ["nuanced", "sophisticated", "refined", "subtle"],
+    "correct": "nuanced",
+    "type": "vocabulary",
+    "level": "C2"
+  },
+  {
+    "question": "The scientific community was ___ by the researcher's groundbreaking discovery.",
+    "options": ["galvanized", "energized", "invigorated", "stimulated"],
+    "correct": "galvanized",
+    "type": "vocabulary",
+    "level": "C2"
+  },
+  {
+    "question": "The novel's narrative structure is deliberately ___ to challenge readers.",
+    "options": ["obfuscated", "obscured", "convoluted", "complicated"],
+    "correct": "obfuscated",
+    "type": "vocabulary",
+    "level": "C2"
+  },
+  {
+    "question": "The debate revealed the ___ nature of the ethical dilemma.",
+    "options": ["intractable", "insoluble", "irreconcilable", "insurmountable"],
+    "correct": "intractable",
+    "type": "vocabulary",
+    "level": "C2"
+  },
+  {
+    "question": "Her mastery of the subject matter was ___ in her dissertation.",
+    "options": ["manifest", "evident", "apparent", "conspicuous"],
+    "correct": "manifest",
+    "type": "vocabulary",
+    "level": "C2"
+  },
+  {
+    "question": "The committee's recommendations were met with ___ from various stakeholders.",
+    "options": ["opprobrium", "censure", "condemnation", "criticism"],
+    "correct": "opprobrium",
+    "type": "vocabulary",
+    "level": "C2"
+  },
+  {
+    "question": "The author's use of metaphor creates a ___ layer of meaning in the text.",
+    "options": ["palimpsestic", "multilayered", "complex", "intricate"],
+    "correct": "palimpsestic",
+    "type": "vocabulary",
+    "level": "C2"
+  },
+  {
+    "question": "The professor's lecture was characterized by its ___ erudition.",
+    "options": ["prodigious", "extensive", "vast", "comprehensive"],
+    "correct": "prodigious",
+    "type": "vocabulary",
+    "level": "C2"
+  },
+  {
+    "question": "The documentary provides an ___ look at contemporary social issues.",
+    "options": ["incisive", "sharp", "penetrating", "insightful"],
+    "correct": "incisive",
+    "type": "vocabulary",
+    "level": "C2"
+  },
+  {
+    "question": "The artist's latest exhibition showcases her ___ creativity.",
+    "options": ["unbridled", "unrestrained", "unlimited", "boundless"],
+    "correct": "unbridled",
+    "type": "vocabulary",
+    "level": "C2"
+  },
+  {
+    "question": "The author's writing style is both ___ and accessible to general readers.",
+    "options": ["erudite", "scholarly", "learned", "academic"],
+    "correct": "erudite",
+    "type": "vocabulary",
+    "level": "C2"
+  },
+  {
+    "question": "My sister ___ coffee every morning.",
+    "options": ["drink", "drinks", "drinking", "drank"],
+    "correct": "drinks",
+    "type": "grammar",
+    "level": "A1"
+  },
+  {
+    "question": "There ___ many books on the table.",
+    "options": ["is", "are", "was", "been"],
+    "correct": "are",
+    "type": "grammar",
+    "level": "A1"
+  },
+  {
+    "question": "Where ___ you live?",
+    "options": ["do", "does", "are", "is"],
+    "correct": "do",
+    "type": "grammar",
+    "level": "A1"
+  },
+  {
+    "question": "They ___ watching TV right now.",
+    "options": ["is", "are", "was", "were"],
+    "correct": "are",
+    "type": "grammar",
+    "level": "A2"
+  },
+  {
+    "question": "We ___ to Paris next summer.",
+    "options": ["go", "goes", "going", "will go"],
+    "correct": "will go",
+    "type": "grammar",
+    "level": "A2"
+  },
+  {
+    "question": "He ___ his keys yesterday.",
+    "options": ["lose", "loses", "lost", "losing"],
+    "correct": "lost",
+    "type": "grammar",
+    "level": "A2"
+  },
+  {
+    "question": "Would you mind ___ the window?",
+    "options": ["open", "opening", "to open", "opened"],
+    "correct": "opening",
+    "type": "grammar",
+    "level": "B1"
+  },
+  {
+    "question": "The book ___ by millions of people.",
+    "options": ["read", "reads", "was read", "is read"],
+    "correct": "is read",
+    "type": "grammar",
+    "level": "B1"
+  },
+  {
+    "question": "___ I were you, I would accept the offer.",
+    "options": ["If", "Unless", "Although", "Because"],
+    "correct": "If",
+    "type": "grammar",
+    "level": "B2"
+  }
+]

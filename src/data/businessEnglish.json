@@ -1,0 +1,317 @@
+[
+  {
+    "word": "horsepower",
+    "definition": "A unit of power used to describe engine output.",
+    "example": "The car delivers 300 horsepower.",
+    "category": "automotive",
+    "level": "B1"
+  },
+  {
+    "word": "transmission",
+    "definition": "A system in a vehicle that transmits power from the engine to the wheels.",
+    "example": "The car has an automatic transmission.",
+    "category": "automotive",
+    "level": "B1"
+  },
+  {
+    "word": "recall",
+    "definition": "A request to return a product due to safety concerns.",
+    "example": "The manufacturer issued a recall for the faulty airbags.",
+    "category": "automotive",
+    "level": "B2"
+  },
+  {
+    "word": "mortgage",
+    "definition": "A loan to buy a property.",
+    "example": "They applied for a mortgage to purchase their first home.",
+    "category": "real estate",
+    "level": "B1"
+  },
+  {
+    "word": "appraisal",
+    "definition": "An expert estimation of a property's value.",
+    "example": "The appraisal valued the house at $500,000.",
+    "category": "real estate",
+    "level": "B2"
+  },
+  {
+    "word": "lease",
+    "definition": "A contract for renting property.",
+    "example": "They signed a one-year lease for the apartment.",
+    "category": "real estate",
+    "level": "A2"
+  },
+  {
+    "word": "phishing",
+    "definition": "A cyber attack to steal personal data using fake messages.",
+    "example": "He received a phishing email pretending to be his bank.",
+    "category": "cybersecurity",
+    "level": "B2"
+  },
+  {
+    "word": "firewall",
+    "definition": "A security system to block unauthorized access.",
+    "example": "The company upgraded its firewall to prevent attacks.",
+    "category": "cybersecurity",
+    "level": "B1"
+  },
+  {
+    "word": "encryption",
+    "definition": "The process of converting data into a secure code.",
+    "example": "Sensitive data is protected through encryption.",
+    "category": "cybersecurity",
+    "level": "B2"
+  },
+  {
+    "word": "inventory",
+    "definition": "The goods and materials a business holds for sale.",
+    "example": "We conduct inventory checks monthly.",
+    "category": "retail",
+    "level": "A2"
+  },
+  {
+    "word": "discount",
+    "definition": "A reduction in the usual price of something.",
+    "example": "The store offered a 20% discount.",
+    "category": "retail",
+    "level": "A2"
+  },
+  {
+    "word": "point of sale",
+    "definition": "The place where a retail transaction occurs.",
+    "example": "The cashier scanned the items at the point of sale.",
+    "category": "retail",
+    "level": "B1"
+  },
+  {
+    "word": "itinerary",
+    "definition": "A plan or route of a journey.",
+    "example": "Our itinerary includes a visit to the Eiffel Tower.",
+    "category": "tourism",
+    "level": "B1"
+  },
+  {
+    "word": "landmark",
+    "definition": "A recognizable natural or man-made feature.",
+    "example": "The Colosseum is a famous landmark in Rome.",
+    "category": "tourism",
+    "level": "A2"
+  },
+  {
+    "word": "souvenir",
+    "definition": "An object kept as a reminder of a place visited.",
+    "example": "She bought a souvenir from the gift shop.",
+    "category": "tourism",
+    "level": "A2"
+  },
+  {
+    "word": "assembly line",
+    "definition": "A production process where parts are added in sequence.",
+    "example": "Cars are built on an assembly line.",
+    "category": "manufacturing",
+    "level": "B1"
+  },
+  {
+    "word": "defect",
+    "definition": "An imperfection or fault in a product.",
+    "example": "The defect was discovered during inspection.",
+    "category": "manufacturing",
+    "level": "B2"
+  },
+  {
+    "word": "output",
+    "definition": "The amount of something produced.",
+    "example": "Factory output increased by 10% this year.",
+    "category": "manufacturing",
+    "level": "B1"
+  },
+  {
+    "word": "blueprint",
+    "definition": "A detailed plan for construction.",
+    "example": "The architect presented the building\u2019s blueprint.",
+    "category": "construction",
+    "level": "B1"
+  },
+  {
+    "word": "scaffold",
+    "definition": "A temporary structure used during building work.",
+    "example": "Workers used a scaffold to reach higher floors.",
+    "category": "construction",
+    "level": "B1"
+  },
+  {
+    "word": "permit",
+    "definition": "An official document allowing construction work.",
+    "example": "A building permit is required before starting work.",
+    "category": "construction",
+    "level": "A2"
+  },
+  {
+    "word": "bandwidth",
+    "definition": "The maximum data transfer rate of a network.",
+    "example": "Streaming videos requires high bandwidth.",
+    "category": "telecommunications",
+    "level": "B2"
+  },
+  {
+    "word": "coverage",
+    "definition": "The area where mobile signals are available.",
+    "example": "There is no coverage in remote areas.",
+    "category": "telecommunications",
+    "level": "B1"
+  },
+  {
+    "word": "roaming",
+    "definition": "Using mobile services outside the home network area.",
+    "example": "Roaming charges apply when traveling abroad.",
+    "category": "telecommunications",
+    "level": "B2"
+  },
+  {
+    "word": "renewable",
+    "definition": "Energy from sources that are naturally replenished.",
+    "example": "Solar power is a renewable energy source.",
+    "category": "energy",
+    "level": "B2"
+  },
+  {
+    "word": "grid",
+    "definition": "A network for delivering electricity.",
+    "example": "The power grid was damaged in the storm.",
+    "category": "energy",
+    "level": "B2"
+  },
+  {
+    "word": "emissions",
+    "definition": "Pollutants released into the air.",
+    "example": "Factories are reducing carbon emissions.",
+    "category": "energy",
+    "level": "B2"
+  },
+  {
+    "word": "regulation",
+    "definition": "An official rule or law.",
+    "example": "The company must comply with safety regulations.",
+    "category": "legal compliance",
+    "level": "B2"
+  },
+  {
+    "word": "audit",
+    "definition": "An official inspection of accounts or systems.",
+    "example": "The firm passed the financial audit successfully.",
+    "category": "legal compliance",
+    "level": "B2"
+  },
+  {
+    "word": "liability",
+    "definition": "Legal responsibility for something.",
+    "example": "The company accepted liability for damages.",
+    "category": "legal compliance",
+    "level": "B2"
+  },
+  {
+    "word": "runway",
+    "definition": "A narrow, flat platform used by models to showcase clothing.",
+    "example": "The designer revealed the new collection on the runway.",
+    "category": "fashion",
+    "level": "B1"
+  },
+  {
+    "word": "couture",
+    "definition": "The design and manufacture of fashionable clothes to a client's specific requirements.",
+    "example": "Paris is known for haute couture fashion.",
+    "category": "fashion",
+    "level": "C1"
+  },
+  {
+    "word": "trend",
+    "definition": "A general direction in which something is developing or changing.",
+    "example": "Minimalism is a popular trend in fashion.",
+    "category": "fashion",
+    "level": "B1"
+  },
+  {
+    "word": "harvest",
+    "definition": "The process of gathering mature crops from the fields.",
+    "example": "Farmers began the wheat harvest early this year.",
+    "category": "agriculture",
+    "level": "A2"
+  },
+  {
+    "word": "irrigation",
+    "definition": "The artificial application of water to soil.",
+    "example": "Efficient irrigation improves crop yield.",
+    "category": "agriculture",
+    "level": "B2"
+  },
+  {
+    "word": "fertilizer",
+    "definition": "A substance added to soil to enhance plant growth.",
+    "example": "They used organic fertilizer in the fields.",
+    "category": "agriculture",
+    "level": "A2"
+  },
+  {
+    "word": "interest rate",
+    "definition": "The percentage charged for borrowing money.",
+    "example": "The central bank raised the interest rate.",
+    "category": "banking",
+    "level": "B2"
+  },
+  {
+    "word": "deposit",
+    "definition": "A sum of money placed into a bank account.",
+    "example": "She made a deposit into her savings account.",
+    "category": "banking",
+    "level": "A2"
+  },
+  {
+    "word": "overdraft",
+    "definition": "An arrangement that allows a bank account to go below zero.",
+    "example": "He paid an overdraft fee for exceeding his balance.",
+    "category": "banking",
+    "level": "B2"
+  },
+  {
+    "word": "cockpit",
+    "definition": "The area where the pilot controls the aircraft.",
+    "example": "The pilot sat in the cockpit before takeoff.",
+    "category": "aviation",
+    "level": "B1"
+  },
+  {
+    "word": "turbulence",
+    "definition": "Irregular motion of the air that can affect aircraft.",
+    "example": "The flight experienced mild turbulence.",
+    "category": "aviation",
+    "level": "B2"
+  },
+  {
+    "word": "altitude",
+    "definition": "The height of an object in relation to sea level.",
+    "example": "The plane reached a cruising altitude of 30,000 feet.",
+    "category": "aviation",
+    "level": "B1"
+  },
+  {
+    "word": "premium",
+    "definition": "The amount paid for an insurance policy.",
+    "example": "The monthly premium covers all medical expenses.",
+    "category": "insurance",
+    "level": "B2"
+  },
+  {
+    "word": "policyholder",
+    "definition": "The person who owns an insurance policy.",
+    "example": "The policyholder is entitled to compensation.",
+    "category": "insurance",
+    "level": "B2"
+  },
+  {
+    "word": "claim",
+    "definition": "A request made to an insurance company for payment.",
+    "example": "She filed a claim after the car accident.",
+    "category": "insurance",
+    "level": "B2"
+  }
+]
